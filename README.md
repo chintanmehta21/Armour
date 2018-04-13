@@ -27,3 +27,4 @@ Armour is an android-based doorlock-opening application which also uses fingerpr
 ### Disclaimer
 
 We welcome you to try out the application and mail us your suggestions and problems.
+> chintanmehta1@pm.me
