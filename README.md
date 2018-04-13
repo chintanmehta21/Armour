@@ -9,7 +9,7 @@ Armour is an android-based doorlock-opening application which also uses fingerpr
 3. Two-click + Fingerprint authentication and Voila! Doorlock opens
 4. Uses already integrated fingerprint on your phone 
 5. Everything about the developers included
-6. The doorlock can be made by this cicrcuit-diagram given below
+6. The doorlock can be made by this circuit-diagram given below
 
 ![arduino-based doorlock armour](https://user-images.githubusercontent.com/34465905/38732294-3e275c80-3f0d-11e8-9926-dcd3861ff412.png)
 
